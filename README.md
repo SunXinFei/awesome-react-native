@@ -7,14 +7,15 @@
 </p><br/>
 <br/>
 <br/>
-Awesome React Native is an awesome style list that curates the best React Native libraries,
-tools, tutorials, articles and more. PRs are welcome!
+<h2>最后更新时间2019-2-20</h2>   
+
+本文是针对于Awesome React Native的中文翻译
 
 <br/>
 <br/>
 
 <p align="center">
-<a href="https://bit.ly/arn-wkly">Don't miss out! subscribe to our weekly newsletter</a>
+<a href="https://bit.ly/arn-wkly">不要错过！订阅Awesome React Native的每周时事通讯</a>
 </p>
 <br/>
 <br/>
@@ -30,14 +31,14 @@ alt="Build Status" />
         <a href="https://medium.com/react-native-training/react-native-authentication-in-depth-8d8c2e4ad81b">
         <img src="https://cdn-images-1.medium.com/max/2000/1*WpOK6v_X2lr8CsmAdJR4og.jpeg" width="120" />
         <br />
-        React Native Authentication in Depth
+        深入理解React Native的身份验证
         </a>
     </td>
     <td style="text-align: center">
         <a href="https://www.youtube.com/watch?v=9baaVjGdBqs">
         <img src="https://img.youtube.com/vi/9baaVjGdBqs/0.jpg" width="120" />
         <br />
-        Create React Native App
+        教你创建React Native App的YouTube视频
         </a>
     </td>
     <td style="text-align: center">
@@ -47,7 +48,7 @@ alt="Build Status" />
             padding: 10px;
         " />
         <br />
-            Better List Views
+            更好的列表视图教程
         </a>
     </td>
 </tr></table></div>
@@ -55,40 +56,40 @@ alt="Build Status" />
 Have something that belongs under "Buzzing"? drop me a line:
 dotan-at-paracode.com.
 
-## Recommended SDK for bug and crash reporting [Instabug](https://try.instabug.com/react-native/?utm_source=awesomereact&utm_medium=spon&utm_content=header)
+## 推荐用于bug和崩溃报告的SDK [Instabug](https://try.instabug.com/react-native/?utm_source=awesomereact&utm_medium=spon&utm_content=header)
 
 [![instabug-visual-repro-steps](https://user-images.githubusercontent.com/9888943/40114739-4e0ff416-590e-11e8-9a29-55fb2d4cfebc.png)](https://try.instabug.com/react-native/?utm_source=awesomereact&utm_medium=spon&utm_content=banner)
 
-> Instabug has just released their visual repro steps feature to enable you to trace all the views that the user interacted with before a bug or a crash occured. This will help you reproduce bugs and fix them 10x faster.<br>
-> We highly recommend integrating Instabug’s framework as they compiled a lot of other great features providing you with useful and rich data attached to each bug or crash report. [_learn more._ ](https://try.instabug.com/react-native/?utm_source=awesomereact&utm_medium=spon&utm_content=learnmore)🚀
+> Instabug刚刚发布了他们的可视化报告步骤功能，使您能够在发生错误或崩溃之前跟踪用户与之交互的所有视图。这将帮助您重现错误并将其修复速度提高10倍。<br>
+> 我们强烈建议集成Instabug的框架，因为他们编译了许多其他强大的功能，为您提供附加到每个错误或崩溃报告的有用和丰富的数据。[_learn more._ ](https://try.instabug.com/react-native/?utm_source=awesomereact&utm_medium=spon&utm_content=learnmore)🚀
 > [![](https://instabug-ga.appspot.com/UA-41982088-6/github/awesomereact?pixel)](https://instabug.com)
 
-# Categories
+# 分类
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 - [Buzzing](#buzzing)
-    - [Recommended SDK for bug and crash reporting Instabug](#recommended-sdk-for-bug-and-crash-reporting-instabug)
-- [Categories](#categories)
-    - [Conferences](#conferences)
+    - [推荐用于bug和崩溃报告的SDK [Instabug]](#recommended-sdk-for-bug-and-crash-reporting-instabug)
+- [分类](#categories)
+    - [会议](#conferences)
         - [Chain React - Portland, OR USA](#chain-react---portland-or-usa)
         - [React Native EU - Wroclaw, Poland](#react-native-eu---wroclaw-poland)
         - [React Alicante - Alicante, Spain](#react-alicante---alicante-spain)
         - [ReactNext - Tel Aviv, Israel](#reactnext---tel-aviv-israel)
         - [React Berlin - Berlin, Germany](#react-berlin---berlin-germany)
-    - [Articles](#articles)
+    - [文章](#articles)
         - [Reference](#reference)
         - [Howtos](#howtos)
         - [Assorted](#assorted)
         - [Continuous Integration](#continuous-integration)
         - [Internals](#internals)
-    - [Components](#components)
+    - [组件](#components)
         - [UI](#ui)
-        - [Navigation](#navigation)
-            - [Navigation/Routing Articles](#navigationrouting-articles)
-            - [Navigation Demos](#navigation-demos)
+        - [导航](#navigation)
+            - [导航/路由相关文章](#navigationrouting-articles)
+            - [导航相关demo](#navigation-demos)
         - [Deep Linking](#deep-linking)
         - [Text & Rich Content](#text--rich-content)
         - [Analytics](#analytics)
@@ -247,20 +248,20 @@ Components and native modules.
 
 ### UI
 
-* [lottie-react-native ★10415](https://github.com/airbnb/lottie-react-native) - a mobile library for Android and iOS that parses Adobe After Effects animations exported as JSON with bodymovin and renders them natively on mobile!
-* [react-native-vector-icons ★9985](https://github.com/oblador/react-native-vector-icons) - Customizable Icons for React Native with support for NavBar/TabBar, image source and full styling. Choose from 3000+ bundled icons or use your own.
-* [react-native-maps ★8388](https://github.com/lelandrichardson/react-native-maps) - React Native Map components for iOS + Android
-* [react-native-swiper ★6955](https://github.com/leecade/react-native-swiper) - The best Swiper component for React Native.
-* [react-native-gifted-chat ★6546](https://github.com/FaridSafi/react-native-gifted-chat) - The most complete chat UI for React Native (formerly known as Gifted Messenger)
-* [react-native-scrollable-tab-view ★5664](https://github.com/brentvatne/react-native-scrollable-tab-view) - A scrollable tab-view for React Native
-* [react-native-image-picker ★4709](https://github.com/marcshilling/react-native-image-picker) - A React Native module that allows you to use the native UIImagePickerController UI to select a photo from the device library or directly from the camera.
-* [react-native-material-kit ★4124](https://github.com/xinthink/react-native-material-kit) - Bringing Material Design to React Native
-* [react-native-snap-carousel ★3959](https://github.com/archriss/react-native-snap-carousel) - Swiper component for React Native with previews, multiple layouts, parallax images, performant handling of huge numbers of items, and RTL support
-* [react-native-calendars ★3402](https://github.com/wix/react-native-calendars) - React Native Calendar Components 📆
+* [lottie-react-native ★10415](https://github.com/airbnb/lottie-react-native) - Lottie是一个适用于Android和iOS的移动库，用于解析使用bodymovin导出为JSON的Adobe After Effects动画，并在移动设备上呈现它们！
+* [react-native-vector-icons ★9985](https://github.com/oblador/react-native-vector-icons) - React Native的可自定义图标，支持NavBar / TabBar，图像源和完整样式。从3000多个打包图标中选择或使用您自己的图标。
+* [react-native-maps ★8388](https://github.com/lelandrichardson/react-native-maps) - 针对iOS以及Android的React Native 地图组件
+* [react-native-swiper ★6955](https://github.com/leecade/react-native-swiper) - React Native的最佳Swiper组件。
+* [react-native-gifted-chat ★6546](https://github.com/FaridSafi/react-native-gifted-chat) - React Native（以前称为Gifted Messenger）最完整的聊天用户界面
+* [react-native-scrollable-tab-view ★5664](https://github.com/brentvatne/react-native-scrollable-tab-view) - React Native的可滚动tab标签视图
+* [react-native-image-picker ★4709](https://github.com/marcshilling/react-native-image-picker) - 一个React Native模块，允许您使用原生 UIImagePickerController UI从设备库或直接从照相机中选择照片。
+* [react-native-material-kit ★4124](https://github.com/xinthink/react-native-material-kit) - 针对于React Native的素材设计库
+* [react-native-snap-carousel ★3959](https://github.com/archriss/react-native-snap-carousel) - React Native的Swiper组件，具有预览，多个布局，视差图像，大量模块高性能处理以及RTL支持
+* [react-native-calendars ★3402](https://github.com/wix/react-native-calendars) - React Native 日历组件📆
 * [react-native-ui-kitten ★3140](https://github.com/akveo/react-native-ui-kitten) - Customizable and reusable react-native component kit
-* [react-native-svg ★2982](https://github.com/magicismight/react-native-svg) - SVG library that works on both iOS & Android
-* [react-native-paper ★2218](https://github.com/callstack/react-native-paper) - Material design for React Native.
-* [react-native-drawer ★2276](https://github.com/root-two/react-native-drawer) - React Native Drawer
+* [react-native-svg ★2982](https://github.com/magicismight/react-native-svg) - SVG库适用于iOS & Android
+* [react-native-paper ★2218](https://github.com/callstack/react-native-paper) - React Native素材设计.
+* [react-native-drawer ★2276](https://github.com/root-two/react-native-drawer) - React Native Drawer抽屉组件
 * [react-native-app-intro ★2433](https://github.com/FuYaoDe/react-native-app-intro) - A React Native parallax effect app intro
 * [react-native-image-crop-picker ★2736](https://github.com/ivpusic/react-native-image-crop-picker) - iOS/Android image picker with support for multiple images and cropping
 * [react-native-blur ★2172](https://github.com/Kureev/react-native-blur) - React Native Blur component
